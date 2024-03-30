@@ -1,2 +1,2 @@
-# gharbi
-Gharbi open-source font
+# Gharbi
+Gharbi is an open-source font for Arabic titling.
