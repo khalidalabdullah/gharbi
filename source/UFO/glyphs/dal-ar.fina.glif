@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dal-ar.fina" format="2">
+  <advance width="1141"/>
+  <anchor x="404" y="-159" name="bottom"/>
+  <anchor x="486" y="1166" name="top"/>
+  <outline>
+    <component base="dal-ar"/>
+    <contour>
+      <point x="915" y="307" type="line"/>
+      <point x="915" y="0" type="line"/>
+      <point x="1182" y="0" type="line"/>
+      <point x="1182" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-31 14:37:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>
