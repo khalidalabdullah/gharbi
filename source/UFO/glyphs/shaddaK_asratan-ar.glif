@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shaddaKasratan-ar" format="2">
+  <advance width="0"/>
+  <anchor x="0" y="0" name="_top"/>
+  <outline>
+    <component base="shadda-ar" yOffset="431"/>
+    <component base="kasratan-ar" yOffset="364"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-01 10:36:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

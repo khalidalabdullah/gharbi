@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen-ar.fina" format="2">
+  <advance width="2161"/>
+  <anchor x="1199" y="-201" name="bottom"/>
+  <anchor x="653" y="1076" name="top"/>
+  <outline>
+    <component base="seen-ar"/>
+    <contour>
+      <point x="1550" y="307" type="line"/>
+      <point x="1550" y="0" type="line"/>
+      <point x="2202" y="0" type="line"/>
+      <point x="2202" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-31 14:52:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen-ar.medi" format="2">
+  <advance width="1364"/>
+  <anchor x="636" y="-143" name="bottom"/>
+  <anchor x="428" y="1760" name="top"/>
+  <outline>
+    <component base="seen-ar.medi"/>
+    <component base="_twodots" xOffset="657" yOffset="1214" identifier="F1B7C775"/>
+    <component base="_dot" xOffset="666" yOffset="1878" identifier="BCDA8AD8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-31 14:52:34 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BCDA8AD8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F1B7C775</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
