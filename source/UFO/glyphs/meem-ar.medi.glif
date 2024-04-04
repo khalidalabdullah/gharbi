@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meem-ar.medi" format="2">
+  <advance width="1022"/>
+  <anchor x="405" y="-197" name="bottom"/>
+  <anchor x="434" y="1057" name="top"/>
+  <outline>
+    <component base="meem-ar.init"/>
+    <contour>
+      <point x="850" y="307" type="line"/>
+      <point x="850" y="0" type="line"/>
+      <point x="1063" y="0" type="line"/>
+      <point x="1063" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-31 14:57:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>
