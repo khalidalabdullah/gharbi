@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heh-ar.ss02" format="2">
+  <advance width="1036"/>
+  <anchor x="394" y="-167" name="bottom"/>
+  <anchor x="513" y="1240" name="top"/>
+  <outline>
+    <component base="_roundhead" xOffset="80" identifier="BAAD4F43"/>
+    <contour>
+      <point x="649" y="508" type="line"/>
+      <point x="956" y="508" type="line"/>
+      <point x="956" y="1089" type="line" smooth="yes"/>
+      <point x="956" y="1103"/>
+      <point x="946" y="1109"/>
+      <point x="932" y="1105" type="curve" smooth="yes"/>
+      <point x="841" y="1078"/>
+      <point x="751" y="1042"/>
+      <point x="665" y="990" type="curve" smooth="yes"/>
+      <point x="655" y="984"/>
+      <point x="649" y="978"/>
+      <point x="649" y="968" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-30 14:28:19 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BAAD4F43</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

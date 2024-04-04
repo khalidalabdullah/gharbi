@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hah-ar.fina" format="2">
+  <advance width="1243"/>
+  <anchor x="344" y="-718" name="bottom"/>
+  <anchor x="524" y="1142" name="top"/>
+  <outline>
+    <contour>
+      <point x="1051" y="307" type="line"/>
+      <point x="1051" y="0" type="line"/>
+      <point x="1284" y="0" type="line"/>
+      <point x="1284" y="307" type="line"/>
+    </contour>
+    <component base="hah-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-31 14:36:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>
