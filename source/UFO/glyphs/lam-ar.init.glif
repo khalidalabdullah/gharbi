@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam-ar.init" format="2">
+  <advance width="479"/>
+  <anchor x="228" y="-135" name="bottom"/>
+  <anchor x="235" y="1571" name="top"/>
+  <outline>
+    <contour>
+      <point x="49" y="0" type="line"/>
+      <point x="281" y="0"/>
+      <point x="397" y="113"/>
+      <point x="397" y="336" type="curve" smooth="yes"/>
+      <point x="397" y="1495" type="line" smooth="yes"/>
+      <point x="397" y="1509"/>
+      <point x="387" y="1513"/>
+      <point x="373" y="1511" type="curve" smooth="yes"/>
+      <point x="285" y="1493"/>
+      <point x="195" y="1456"/>
+      <point x="106" y="1397" type="curve" smooth="yes"/>
+      <point x="96" y="1391"/>
+      <point x="90" y="1384"/>
+      <point x="90" y="1374" type="curve" smooth="yes"/>
+      <point x="90" y="354" type="line" smooth="yes"/>
+      <point x="90" y="315"/>
+      <point x="76" y="307"/>
+      <point x="33" y="307" type="curve" smooth="yes"/>
+      <point x="-49" y="307" type="line"/>
+      <point x="-49" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-28 06:59:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

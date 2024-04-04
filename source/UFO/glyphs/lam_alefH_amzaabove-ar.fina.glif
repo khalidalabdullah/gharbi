@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alefHamzaabove-ar.fina" format="2">
+  <advance width="975"/>
+  <anchor x="314" y="-131" name="bottom"/>
+  <anchor x="266" y="1821" name="top"/>
+  <outline>
+    <component base="lam_alefHamzaabove-ar"/>
+    <contour>
+      <point x="831" y="307" type="line"/>
+      <point x="831" y="0" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="1016" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-31 15:01:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

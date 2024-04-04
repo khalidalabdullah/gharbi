@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamVabove_alef-ar.fina" format="2">
+  <advance width="950"/>
+  <outline>
+    <component base="lamVabove_alef-ar"/>
+    <contour>
+      <point x="462" y="307" type="line"/>
+      <point x="462" y="0" type="line"/>
+      <point x="1008" y="0" type="line"/>
+      <point x="1008" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-02 11:41:10 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>alef-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>
