@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peh-ar.medi" format="2">
+  <advance width="696"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="threedotsupbelow-ar" xScale="0.6591" yScale="0.6591" xOffset="395" yOffset="-26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-02 11:23:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>
