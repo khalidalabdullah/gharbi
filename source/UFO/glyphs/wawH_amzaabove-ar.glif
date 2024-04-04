@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wawHamzaabove-ar" format="2">
+  <advance width="1038"/>
+  <unicode hex="0624"/>
+  <anchor x="304" y="-481" name="bottom"/>
+  <anchor x="379" y="1549" name="top"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="_smallhamza" xOffset="261" yOffset="1195" identifier="1BC4CA96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-28 07:02:13 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1BC4CA96</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
