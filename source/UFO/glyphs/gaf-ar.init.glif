@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gaf-ar.init" format="2">
+  <advance width="915"/>
+  <outline>
+    <component base="kaf-ar.init"/>
+    <contour>
+      <point x="69" y="1267" type="line"/>
+      <point x="69" y="1098" type="line"/>
+      <point x="781" y="1597" type="line"/>
+      <point x="790" y="1648"/>
+      <point x="779" y="1698"/>
+      <point x="754" y="1743" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-02 11:50:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>
