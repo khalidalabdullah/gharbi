@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehDotless-ar.fina" format="2">
+  <advance width="1735"/>
+  <outline>
+    <contour>
+      <point x="1591" y="307" type="line"/>
+      <point x="1591" y="0" type="line"/>
+      <point x="1776" y="0" type="line"/>
+      <point x="1776" y="307" type="line"/>
+    </contour>
+    <component base="fehDotless-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-31 14:55:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>
