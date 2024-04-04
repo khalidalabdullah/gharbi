@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydieresis" format="2">
+  <advance width="1323"/>
+  <unicode hex="0178"/>
+  <note>
+uni0178
+</note>
+  <outline>
+    <contour>
+      <point x="403" y="1404" type="line"/>
+      <point x="40" y="1404" type="line"/>
+      <point x="491" y="505" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="833" y="0" type="line"/>
+      <point x="833" y="505" type="line"/>
+      <point x="1283" y="1404" type="line"/>
+      <point x="921" y="1404" type="line"/>
+      <point x="661" y="793" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="1613" type="curve" smooth="yes"/>
+      <point x="265" y="1544"/>
+      <point x="328" y="1485"/>
+      <point x="410" y="1485" type="curve" smooth="yes"/>
+      <point x="493" y="1485"/>
+      <point x="555" y="1543"/>
+      <point x="555" y="1614" type="curve" smooth="yes"/>
+      <point x="555" y="1685"/>
+      <point x="493" y="1739"/>
+      <point x="410" y="1739" type="curve" smooth="yes"/>
+      <point x="328" y="1739"/>
+      <point x="265" y="1685"/>
+    </contour>
+    <contour>
+      <point x="764" y="1613" type="curve" smooth="yes"/>
+      <point x="764" y="1544"/>
+      <point x="827" y="1485"/>
+      <point x="910" y="1485" type="curve" smooth="yes"/>
+      <point x="993" y="1485"/>
+      <point x="1056" y="1543"/>
+      <point x="1056" y="1614" type="curve" smooth="yes"/>
+      <point x="1056" y="1685"/>
+      <point x="993" y="1739"/>
+      <point x="910" y="1739" type="curve" smooth="yes"/>
+      <point x="827" y="1739"/>
+      <point x="764" y="1685"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-30 11:28:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>
