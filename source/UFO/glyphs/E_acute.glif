@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute" format="2">
+  <advance width="1047"/>
+  <unicode hex="00C9"/>
+  <note>
+uni00C9
+</note>
+  <outline>
+    <contour>
+      <point x="909" y="845" type="line"/>
+      <point x="378" y="845" type="line"/>
+      <point x="378" y="1140" type="line"/>
+      <point x="1007" y="1140" type="line"/>
+      <point x="1007" y="1404" type="line"/>
+      <point x="40" y="1404" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="1004" y="0" type="line"/>
+      <point x="1004" y="260" type="line"/>
+      <point x="378" y="260" type="line"/>
+      <point x="378" y="595" type="line"/>
+      <point x="909" y="595" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="1475" type="line"/>
+      <point x="668" y="1475" type="line"/>
+      <point x="937" y="1778" type="line"/>
+      <point x="595" y="1778" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-30 11:28:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>
