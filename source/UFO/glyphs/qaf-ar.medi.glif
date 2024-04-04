@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf-ar.medi" format="2">
+  <advance width="1022"/>
+  <anchor x="421" y="-143" name="bottom"/>
+  <anchor x="439" y="1568" name="top"/>
+  <outline>
+    <component base="qaf-ar.init"/>
+    <contour>
+      <point x="879" y="307" type="line"/>
+      <point x="879" y="0" type="line"/>
+      <point x="1063" y="0" type="line"/>
+      <point x="1063" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-31 14:56:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>
