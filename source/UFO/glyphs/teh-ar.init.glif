@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh-ar.init" format="2">
+  <advance width="774"/>
+  <anchor x="316" y="-161" name="bottom"/>
+  <anchor x="398" y="1526" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init" xOffset="109"/>
+    <contour>
+      <point x="-41" y="307" type="line"/>
+      <point x="-41" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="217" y="307" type="line"/>
+    </contour>
+    <component base="_twodots" xOffset="418" yOffset="1219" identifier="578DAEEA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-31 14:28:10 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>578DAEEA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

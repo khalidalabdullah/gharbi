@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsdowncenter-ar" format="2">
+  <advance width="0"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="-2" y="-845" name="bottom"/>
+  <outline>
+    <component base="_dot" yOffset="79" identifier="DD9CC988"/>
+    <component base="_dot" xOffset="1" yOffset="-284" identifier="138BEBC8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-02 11:03:13 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>138BEBC8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DD9CC988</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
