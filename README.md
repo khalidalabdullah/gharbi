@@ -11,7 +11,7 @@ Whether used for branding, editorial design, or digital interfaces, Gharbi effor
 
 Two Fonts in One
 
-Gharbi offers the versatility of two distinct styles within a single typeface. Whether you prefer a more traditional look or a contemporary vibe, Gharbi has you covered. With the ability to seamlessly switch between styles or mix and match characters from both, using any standard software, such as Adobe Illustrator, you have the freedom to tailor your designs to suit your unique aesthetic preferences. Embrace the classic elegance of one style, or infuse your designs with a modern flair by seamlessly integrating elements from the other. With Gharbi, the possibilities are endless, allowing you to effortlessly create captivating typography that stands out in any project.![image](https://github.com/khalidalabdullah/gharbi/assets/43151453/212bee20-14ac-4dcb-b9ca-9c5c0a04537a)
+Gharbi offers the versatility of two distinct styles within a single typeface. Whether you prefer a more traditional look or a contemporary vibe, Gharbi has you covered. With the ability to seamlessly switch between styles or mix and match characters from both, using any standard software, such as Adobe Illustrator, you have the freedom to tailor your designs to suit your unique aesthetic preferences. Embrace the classic elegance of one style, or infuse your designs with a modern flair by seamlessly integrating elements from the other. With Gharbi, the possibilities are endless, allowing you to effortlessly create captivating typography that stands out in any project.
 
 
 ![Gharbi Arabic Titling Font](docs/Gharbi.png)
