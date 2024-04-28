@@ -15,3 +15,4 @@ Gharbi introduces a dual-style paradigm, presenting users with the flexibility o
 
 
 ![Gharbi Arabic Titling Font](docs/Gharbi.png)
+![Commercial Branding](docs/Gharbi-Commercial1.png)
