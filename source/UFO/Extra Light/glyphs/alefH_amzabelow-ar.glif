@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefHamzabelow-ar" format="2">
+  <advance width="221"/>
+  <unicode hex="0625"/>
+  <anchor x="99" y="-655" name="bottom"/>
+  <anchor x="107" y="1574" name="top"/>
+  <outline>
+    <component base="alef-ar"/>
+    <component base="_smallhamza" xOffset="13" yOffset="-373" identifier="940387D8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-22 08:39:28 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>940387D8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

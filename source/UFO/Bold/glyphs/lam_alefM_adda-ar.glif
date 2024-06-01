@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alefMadda-ar" format="2">
+  <advance width="975"/>
+  <anchor x="798" y="1585" name="top_1"/>
+  <anchor x="11" y="1620" name="top_2"/>
+  <outline>
+    <component base="lam_alef-ar"/>
+    <component base="_meddeh" xOffset="145" yOffset="1485" identifier="AF8B7B5E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-30 09:32:27 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AF8B7B5E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

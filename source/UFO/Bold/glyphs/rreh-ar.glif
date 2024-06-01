@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rreh-ar" format="2">
+  <advance width="479"/>
+  <unicode hex="0691"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="_tahsmall" xOffset="229" yOffset="1113" identifier="C38B359E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-29 19:36:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C38B359E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

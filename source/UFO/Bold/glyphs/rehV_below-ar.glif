@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehVbelow-ar" format="2">
+  <advance width="479"/>
+  <unicode hex="0695"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="kurdv" xOffset="146" yOffset="-949" identifier="BD18DD4F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-23 12:11:45 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BD18DD4F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

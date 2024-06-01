@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tteh-ar.fina" format="2">
+  <advance width="1462"/>
+  <outline>
+    <component base="behDotless-ar.fina"/>
+    <component base="_tahsmall" xOffset="724" yOffset="994" identifier="099A40E3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-29 08:54:57 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>099A40E3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

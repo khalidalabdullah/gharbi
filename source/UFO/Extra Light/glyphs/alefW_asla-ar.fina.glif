@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefWasla-ar.fina" format="2">
+  <advance width="221"/>
+  <outline>
+    <component base="alef-ar.fina"/>
+    <component base="wasla-ar" xOffset="99" yOffset="1568"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-29 07:48:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zcaron" format="2">
+  <advance width="1180"/>
+  <unicode hex="017D"/>
+  <note>
+uni017D
+</note>
+  <outline>
+    <contour>
+      <point x="1059" y="1367" type="line"/>
+      <point x="1059" y="1404" type="line"/>
+      <point x="129" y="1404" type="line"/>
+      <point x="129" y="1352" type="line"/>
+      <point x="986" y="1352" type="line"/>
+      <point x="91" y="42" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="1089" y="0" type="line"/>
+      <point x="1089" y="52" type="line"/>
+      <point x="162" y="52" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="1776" type="line"/>
+      <point x="344" y="1776" type="line"/>
+      <point x="344" y="1765" type="line"/>
+      <point x="557" y="1522" type="line"/>
+      <point x="613" y="1522" type="line"/>
+      <point x="824" y="1763" type="line"/>
+      <point x="824" y="1776" type="line"/>
+      <point x="773" y="1776" type="line"/>
+      <point x="585" y="1567" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-16 19:04:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourFarsi-ar.urdu" format="2">
+  <advance width="1217"/>
+  <outline>
+    <component base="fourFarsi-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-29 07:23:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

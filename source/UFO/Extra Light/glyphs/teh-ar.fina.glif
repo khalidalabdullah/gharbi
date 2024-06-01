@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh-ar.fina" format="2">
+  <advance width="1462"/>
+  <anchor x="440" y="-128" name="bottom"/>
+  <anchor x="688" y="1576" name="top"/>
+  <outline>
+    <component base="behDotless-ar.fina"/>
+    <component base="_twodots" xOffset="743" yOffset="1210" identifier="B474E753"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-21 19:20:11 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B474E753</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

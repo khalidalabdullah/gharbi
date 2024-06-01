@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehgoal-ar.fina" format="2">
+  <advance width="1462"/>
+  <outline>
+    <contour>
+      <point x="131" y="224" type="curve" smooth="yes"/>
+      <point x="227" y="430"/>
+      <point x="396" y="783"/>
+      <point x="642.739" y="771.031" type="curve"/>
+      <point x="898.683" y="758.546"/>
+      <point x="784.235" y="0"/>
+      <point x="1248" y="0" type="curve"/>
+      <point x="1482" y="0" type="line"/>
+      <point x="1482" y="52" type="line"/>
+      <point x="1248" y="52" type="line"/>
+      <point x="823.365" y="52"/>
+      <point x="962.318" y="807.503"/>
+      <point x="645.261" y="822.969" type="curve"/>
+      <point x="362" y="837"/>
+      <point x="181" y="455"/>
+      <point x="84" y="246" type="curve" smooth="yes"/>
+      <point x="81" y="240"/>
+      <point x="83" y="238"/>
+      <point x="88" y="233" type="curve" smooth="yes"/>
+      <point x="97" y="224"/>
+      <point x="107" y="220"/>
+      <point x="118" y="219" type="curve" smooth="yes"/>
+      <point x="124" y="218"/>
+      <point x="128" y="218"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-30 07:02:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

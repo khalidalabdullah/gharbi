@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zah-ar.fina.ss01" format="2">
+  <advance width="1659"/>
+  <anchor x="519" y="-105" name="bottom"/>
+  <anchor x="916" y="1565" name="top"/>
+  <outline>
+    <component base="_dot" xOffset="910" yOffset="1526" identifier="98CEA336"/>
+    <component base="tah-ar.fina.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-21 19:20:11 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>98CEA336</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

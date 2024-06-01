@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>_roundot</key>
+    <string>_roundot.glif</string>
+    <key>dal-ar</key>
+    <string>dal-ar.glif</string>
+    <key>dal-ar.ss01</key>
+    <string>dal-ar.ss01.glif</string>
+    <key>hah-ar.init</key>
+    <string>hah-ar.init.glif</string>
+    <key>heh-ar</key>
+    <string>heh-ar.glif</string>
+    <key>heh-ar.init.ss01</key>
+    <string>heh-ar.init.ss01.glif</string>
+    <key>heh-ar.ss01</key>
+    <string>heh-ar.ss01.glif</string>
+    <key>heh-ar.ss02</key>
+    <string>heh-ar.ss02.glif</string>
+  </dict>
+</plist>

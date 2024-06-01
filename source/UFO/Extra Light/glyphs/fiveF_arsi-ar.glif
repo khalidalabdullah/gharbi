@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fiveFarsi-ar" format="2">
+  <advance width="1307"/>
+  <unicode hex="06F5"/>
+  <outline>
+    <contour>
+      <point x="752" y="1235" type="line"/>
+      <point x="357" y="1060"/>
+      <point x="156" y="743"/>
+      <point x="155" y="520.141" type="curve"/>
+      <point x="153.945" y="336.581"/>
+      <point x="272.329" y="104"/>
+      <point x="497" y="104" type="curve"/>
+      <point x="559" y="104"/>
+      <point x="646" y="128"/>
+      <point x="690.858" y="195.41" type="curve"/>
+      <point x="736" y="124"/>
+      <point x="839.37" y="102.183"/>
+      <point x="909.703" y="104.01" type="curve"/>
+      <point x="1102.641" y="109.429"/>
+      <point x="1245" y="271.589"/>
+      <point x="1245" y="520" type="curve"/>
+      <point x="1245" y="950.129"/>
+      <point x="869.398" y="1192.719"/>
+      <point x="522.893" y="1390.578" type="curve"/>
+      <point x="506" y="1381"/>
+      <point x="498" y="1365"/>
+      <point x="497.107" y="1345.422" type="curve"/>
+      <point x="840.602" y="1149.281"/>
+      <point x="1193" y="919.871"/>
+      <point x="1193" y="520" type="curve"/>
+      <point x="1193" y="298.611"/>
+      <point x="1071.159" y="160.565"/>
+      <point x="908.297" y="155.99" type="curve"/>
+      <point x="836" y="154"/>
+      <point x="731" y="189"/>
+      <point x="713" y="276" type="curve"/>
+      <point x="671" y="276" type="line"/>
+      <point x="654" y="192"/>
+      <point x="559" y="156"/>
+      <point x="497" y="156" type="curve"/>
+      <point x="309.871" y="156"/>
+      <point x="206.053" y="355.219"/>
+      <point x="207" y="519.859" type="curve"/>
+      <point x="208" y="725"/>
+      <point x="399" y="1022"/>
+      <point x="774" y="1187" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-17 07:46:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

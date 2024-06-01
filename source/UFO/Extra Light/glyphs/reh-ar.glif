@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reh-ar" format="2">
+  <advance width="479"/>
+  <unicode hex="0631"/>
+  <anchor x="194" y="-532" name="bottom"/>
+  <anchor x="277" y="1206" name="top"/>
+  <outline>
+    <contour>
+      <point x="138" y="-508" type="curve" smooth="yes"/>
+      <point x="267" y="-413"/>
+      <point x="397" y="-249"/>
+      <point x="397" y="41" type="curve" smooth="yes"/>
+      <point x="397" y="941" type="line" smooth="yes"/>
+      <point x="397" y="944"/>
+      <point x="394" y="945"/>
+      <point x="391" y="945" type="curve" smooth="yes"/>
+      <point x="378" y="945"/>
+      <point x="364" y="942"/>
+      <point x="349" y="934" type="curve" smooth="yes"/>
+      <point x="347" y="933"/>
+      <point x="345" y="932"/>
+      <point x="345" y="929" type="curve" smooth="yes"/>
+      <point x="345" y="41" type="line" smooth="yes"/>
+      <point x="345" y="-227"/>
+      <point x="221" y="-386"/>
+      <point x="100" y="-476" type="curve" smooth="yes"/>
+      <point x="97" y="-478"/>
+      <point x="98" y="-481"/>
+      <point x="100" y="-483" type="curve" smooth="yes"/>
+      <point x="109" y="-495"/>
+      <point x="120" y="-504"/>
+      <point x="131" y="-508" type="curve" smooth="yes"/>
+      <point x="133" y="-509"/>
+      <point x="135" y="-510"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-13 17:19:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

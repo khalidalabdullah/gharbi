@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad-ar.ss01" format="2">
+  <advance width="2371"/>
+  <anchor x="1186" y="-200" name="bottom"/>
+  <anchor x="664" y="1003" name="top"/>
+  <outline>
+    <component base="_noonbowl" xOffset="82" identifier="3CB08920"/>
+    <component base="_sadhead" xOffset="1137" identifier="641DA7DA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-21 19:20:11 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3CB08920</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>641DA7DA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonghunna-ar.fina" format="2">
+  <advance width="1329"/>
+  <outline>
+    <component base="noonghunna-ar"/>
+    <contour>
+      <point x="1140" y="52" type="line"/>
+      <point x="1140" y="0" type="line"/>
+      <point x="1370" y="0" type="line"/>
+      <point x="1370" y="52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-27 15:04:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

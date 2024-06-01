@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heh-ar.medi.ss01" format="2">
+  <advance width="1151"/>
+  <anchor x="400" y="-185" name="bottom"/>
+  <anchor x="435" y="1450" name="top"/>
+  <outline>
+    <contour>
+      <point x="981" y="307" type="line"/>
+      <point x="981" y="0" type="line"/>
+      <point x="1191" y="0" type="line"/>
+      <point x="1191" y="307" type="line"/>
+    </contour>
+    <component base="heh-ar.init.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-29 07:17:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehVabove-ar" format="2">
+  <advance width="1725"/>
+  <unicode hex="06CE"/>
+  <outline>
+    <component base="alefMaksura-ar"/>
+    <component base="kurdv" xOffset="335" yOffset="935" identifier="FFEC546A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-21 19:20:11 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>FFEC546A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

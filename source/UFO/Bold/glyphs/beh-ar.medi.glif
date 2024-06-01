@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beh-ar.medi" format="2">
+  <advance width="696"/>
+  <anchor x="316" y="-597" name="bottom"/>
+  <anchor x="348" y="1075" name="top"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="_dot" xOffset="289" identifier="E34EEB1C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-27 07:47:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E34EEB1C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

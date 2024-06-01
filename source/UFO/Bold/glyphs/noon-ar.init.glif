@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon-ar.init" format="2">
+  <advance width="666"/>
+  <anchor x="282" y="-189" name="bottom"/>
+  <anchor x="342" y="1570" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="_dot" xOffset="383" yOffset="1520" identifier="A5A77FC9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-21 19:20:11 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A5A77FC9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

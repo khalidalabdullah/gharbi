@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heh-ar.fina.ss02" format="2">
+  <advance width="1049"/>
+  <anchor x="311" y="-176" name="bottom"/>
+  <anchor x="500" y="1138" name="top"/>
+  <outline>
+    <contour>
+      <point x="520" y="52" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="1090" y="0" type="line"/>
+      <point x="1090" y="52" type="line"/>
+    </contour>
+    <component base="heh-ar.ss02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-27 19:16:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

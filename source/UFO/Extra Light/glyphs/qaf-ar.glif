@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf-ar" format="2">
+  <advance width="1495"/>
+  <unicode hex="0642"/>
+  <anchor x="314" y="-637" name="bottom"/>
+  <anchor x="431" y="1438" name="top"/>
+  <outline>
+    <component base="qafDotless-ar"/>
+    <component base="_twodots" xOffset="1006" yOffset="1217" identifier="EB55B318"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-21 19:20:11 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>EB55B318</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

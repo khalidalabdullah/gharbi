@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh-ar.medi" format="2">
+  <advance width="723"/>
+  <anchor x="194" y="-643" name="bottom"/>
+  <anchor x="303" y="1076" name="top"/>
+  <outline>
+    <component base="behDotless-ar.medi" xOffset="17" identifier="7FFCD9BF"/>
+    <component base="_twodots" xOffset="228" yOffset="-305" identifier="8993216C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-31 07:31:13 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7FFCD9BF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8993216C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

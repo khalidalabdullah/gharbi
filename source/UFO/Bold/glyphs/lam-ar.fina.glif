@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam-ar.fina" format="2">
+  <advance width="1319"/>
+  <anchor x="301" y="-576" name="bottom"/>
+  <anchor x="464" y="1548" name="top"/>
+  <outline>
+    <component base="lam-ar"/>
+    <contour>
+      <point x="1178" y="307" type="line"/>
+      <point x="1178" y="0" type="line"/>
+      <point x="1360" y="0" type="line"/>
+      <point x="1360" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-27 14:55:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

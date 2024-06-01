@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="1109"/>
+  <unicode hex="004A"/>
+  <note>
+uni004A
+</note>
+  <outline>
+    <contour>
+      <point x="663" y="415" type="line"/>
+      <point x="663" y="288"/>
+      <point x="610" y="215"/>
+      <point x="517" y="215" type="curve" smooth="yes"/>
+      <point x="415" y="215"/>
+      <point x="375" y="266"/>
+      <point x="375" y="398" type="curve"/>
+      <point x="35" y="398" type="line"/>
+      <point x="35" y="113"/>
+      <point x="213" y="-45"/>
+      <point x="517" y="-45" type="curve" smooth="yes"/>
+      <point x="800" y="-45"/>
+      <point x="1002" y="141"/>
+      <point x="1002" y="415" type="curve" smooth="yes"/>
+      <point x="1002" y="1376" type="line"/>
+      <point x="663" y="1376" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 3 values pushed */
+6 17 18
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHB[ ]	/* 1 value pushed */
+0
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+0
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+0 31
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+0
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+6
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+6 15
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 2 values pushed */
+13 1
+PUSHB[ ]	/* 1 value pushed */
+10
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-16 19:04:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

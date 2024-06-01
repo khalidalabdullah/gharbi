@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehMarbuta-ar.ss02" format="2">
+  <advance width="1036"/>
+  <anchor x="401" y="-120" name="bottom"/>
+  <anchor x="471" y="1574" name="top"/>
+  <outline>
+    <component base="heh-ar.ss02"/>
+    <component base="_twodots" xOffset="519" yOffset="1337" identifier="3CF38180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-27 19:19:42 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3CF38180</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qafDotless-ar.fina" format="2">
+  <advance width="1495"/>
+  <outline>
+    <contour>
+      <point x="1368" y="52" type="line"/>
+      <point x="1368" y="0" type="line"/>
+      <point x="1536" y="0" type="line"/>
+      <point x="1536" y="52" type="line"/>
+    </contour>
+    <component base="qafDotless-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-26 18:33:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lira" format="2">
+  <advance width="1151"/>
+  <unicode hex="20A4"/>
+  <note>
+uni20A4
+</note>
+  <outline>
+    <contour>
+      <point x="770" y="561" type="line"/>
+      <point x="553" y="561" type="line"/>
+      <point x="549" y="651" type="line"/>
+      <point x="770" y="651" type="line"/>
+      <point x="770" y="801" type="line"/>
+      <point x="543" y="801" type="line"/>
+      <point x="539" y="915" type="line" smooth="yes"/>
+      <point x="539" y="1012"/>
+      <point x="571" y="1061"/>
+      <point x="637" y="1061" type="curve" smooth="yes"/>
+      <point x="717" y="1061"/>
+      <point x="758" y="1016"/>
+      <point x="758" y="924" type="curve"/>
+      <point x="1049" y="924" type="line"/>
+      <point x="1049" y="1155"/>
+      <point x="893" y="1298"/>
+      <point x="631" y="1298" type="curve" smooth="yes"/>
+      <point x="385" y="1298"/>
+      <point x="229" y="1155"/>
+      <point x="229" y="915" type="curve" smooth="yes"/>
+      <point x="233" y="801" type="line"/>
+      <point x="104" y="801" type="line"/>
+      <point x="104" y="651" type="line"/>
+      <point x="238" y="651" type="line"/>
+      <point x="242" y="561" type="line"/>
+      <point x="104" y="561" type="line"/>
+      <point x="104" y="412" type="line"/>
+      <point x="246" y="412" type="line"/>
+      <point x="246" y="368" type="line" smooth="yes"/>
+      <point x="246" y="316"/>
+      <point x="227" y="246"/>
+      <point x="193" y="238" type="curve"/>
+      <point x="102" y="238" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="1044" y="0" type="line"/>
+      <point x="1044" y="238" type="line"/>
+      <point x="508" y="238" type="line"/>
+      <point x="543" y="276"/>
+      <point x="564" y="304"/>
+      <point x="561" y="371" type="curve" smooth="yes"/>
+      <point x="559" y="412" type="line"/>
+      <point x="770" y="412" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 3 values pushed */
+36 39 40
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHB[ ]	/* 1 value pushed */
+0
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+24
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+24 31
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+0
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+6
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+6 15
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 3 values pushed */
+38 24 6
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHB[ ]	/* 1 value pushed */
+38
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHB[ ]	/* 2 values pushed */
+0 2
+PUSHB[ ]	/* 1 value pushed */
+10
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+6
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 2 values pushed */
+4 11
+PUSHB[ ]	/* 1 value pushed */
+10
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+8
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHB[ ]	/* 1 value pushed */
+9
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHB[ ]	/* 1 value pushed */
+0
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 1 value pushed */
+13
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHB[ ]	/* 1 value pushed */
+38
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 1 value pushed */
+15
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHB[ ]	/* 1 value pushed */
+38
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 1 value pushed */
+20
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHB[ ]	/* 1 value pushed */
+20
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHB[ ]	/* 7 values pushed */
+15 20 31 20 47 20 3
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHB[ ]	/* 2 values pushed */
+17 2
+PUSHB[ ]	/* 1 value pushed */
+10
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 3 values pushed */
+28 20 24
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHB[ ]	/* 1 value pushed */
+28
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHB[ ]	/* 1 value pushed */
+24
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 2 values pushed */
+30 11
+PUSHB[ ]	/* 1 value pushed */
+10
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+20
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 1 value pushed */
+33
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHB[ ]	/* 1 value pushed */
+17
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 1 value pushed */
+35
+MDRP[10000]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-26 07:26:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

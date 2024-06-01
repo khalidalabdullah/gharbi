@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon-ar.fina" format="2">
+  <advance width="1329"/>
+  <anchor x="435" y="-317" name="bottom"/>
+  <anchor x="624" y="1558" name="top"/>
+  <outline>
+    <component base="noon-ar"/>
+    <contour>
+      <point x="1167" y="307" type="line"/>
+      <point x="1167" y="0" type="line"/>
+      <point x="1370" y="0" type="line"/>
+      <point x="1370" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-27 15:03:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

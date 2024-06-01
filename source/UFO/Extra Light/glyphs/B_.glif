@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="1191"/>
+  <unicode hex="0042"/>
+  <note>
+uni0042
+</note>
+  <outline>
+    <contour>
+      <point x="645" y="0" type="line" smooth="yes"/>
+      <point x="921" y="0"/>
+      <point x="1085" y="147"/>
+      <point x="1085" y="387" type="curve" smooth="yes"/>
+      <point x="1085" y="555"/>
+      <point x="952" y="703"/>
+      <point x="774" y="726" type="curve"/>
+      <point x="931" y="757"/>
+      <point x="1021" y="874"/>
+      <point x="1021" y="1044" type="curve" smooth="yes"/>
+      <point x="1021" y="1278"/>
+      <point x="864" y="1404"/>
+      <point x="562" y="1404" type="curve" smooth="yes"/>
+      <point x="193" y="1404" type="line"/>
+      <point x="193" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="671" y="693" type="line" smooth="yes"/>
+      <point x="891" y="689"/>
+      <point x="1033" y="562"/>
+      <point x="1033" y="385" type="curve" smooth="yes"/>
+      <point x="1033" y="176"/>
+      <point x="889" y="52"/>
+      <point x="651" y="52" type="curve" smooth="yes"/>
+      <point x="245" y="52" type="line"/>
+      <point x="245" y="693" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="1352" type="line"/>
+      <point x="574" y="1352" type="line" smooth="yes"/>
+      <point x="837" y="1348"/>
+      <point x="968" y="1247"/>
+      <point x="968" y="1048" type="curve" smooth="yes"/>
+      <point x="968" y="841"/>
+      <point x="837" y="745"/>
+      <point x="582" y="745" type="curve" smooth="yes"/>
+      <point x="245" y="745" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 3 values pushed */
+24 32 33
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHB[ ]	/* 1 value pushed */
+24
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 1 value pushed */
+2
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHB[ ]	/* 1 value pushed */
+24
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 1 value pushed */
+17
+MDRP[10000]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHB[ ]	/* 1 value pushed */
+0
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+1
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+1 31
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+0
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+0
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+0 15
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 3 values pushed */
+23 0 1
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHB[ ]	/* 1 value pushed */
+23
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHB[ ]	/* 5 values pushed */
+111 23 127 23 2
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHB[ ]	/* 5 values pushed */
+79 23 95 23 2
+DELTAP2[ ]	/* DeltaExceptionP2 */
+PUSHB[ ]	/* 5 values pushed */
+127 23 143 23 2
+DELTAP2[ ]	/* DeltaExceptionP2 */
+PUSHB[ ]	/* 5 values pushed */
+223 23 239 23 2
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHB[ ]	/* 3 values pushed */
+143 23 1
+DELTAP3[ ]	/* DeltaExceptionP3 */
+PUSHB[ ]	/* 3 values pushed */
+188 23 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHB[ ]	/* 2 values pushed */
+15 9
+PUSHB[ ]	/* 1 value pushed */
+10
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 3 values pushed */
+8 15 23
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHB[ ]	/* 1 value pushed */
+0
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 2 values pushed */
+16 11
+PUSHB[ ]	/* 1 value pushed */
+10
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+1
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 2 values pushed */
+30 11
+PUSHB[ ]	/* 1 value pushed */
+10
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-16 19:04:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

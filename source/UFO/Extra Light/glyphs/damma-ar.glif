@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="damma-ar" format="2">
+  <advance width="0"/>
+  <unicode hex="064F"/>
+  <anchor x="0" y="11" name="_top"/>
+  <outline>
+    <contour>
+      <point x="65" y="106" type="curve" smooth="yes"/>
+      <point x="143" y="160"/>
+      <point x="176" y="197"/>
+      <point x="177" y="279" type="curve" smooth="yes"/>
+      <point x="177" y="355"/>
+      <point x="122" y="455"/>
+      <point x="2" y="455" type="curve" smooth="yes"/>
+      <point x="-89" y="455"/>
+      <point x="-175" y="371"/>
+      <point x="-175" y="286" type="curve" smooth="yes"/>
+      <point x="-175" y="184"/>
+      <point x="-123" y="129"/>
+      <point x="-35" y="110" type="curve"/>
+      <point x="-161" y="37" type="line"/>
+      <point x="-148" y="21"/>
+      <point x="-127" y="14"/>
+      <point x="-102" y="19" type="curve" smooth="yes"/>
+      <point x="-84" y="23"/>
+      <point x="5" y="65"/>
+    </contour>
+    <contour>
+      <point x="2" y="408" type="curve" smooth="yes"/>
+      <point x="73" y="408"/>
+      <point x="128" y="355"/>
+      <point x="129" y="282" type="curve" smooth="yes"/>
+      <point x="129" y="210"/>
+      <point x="73" y="154"/>
+      <point x="2" y="154" type="curve" smooth="yes"/>
+      <point x="-70" y="154"/>
+      <point x="-126" y="210"/>
+      <point x="-126" y="282" type="curve" smooth="yes"/>
+      <point x="-126" y="353"/>
+      <point x="-70" y="408"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-29 07:20:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

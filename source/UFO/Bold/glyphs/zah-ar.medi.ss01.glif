@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zah-ar.medi.ss01" format="2">
+  <advance width="1501"/>
+  <anchor x="677" y="-144" name="bottom"/>
+  <anchor x="855" y="1526" name="top"/>
+  <outline>
+    <component base="_dot" xOffset="788" yOffset="1526" identifier="2758104E"/>
+    <component base="tah-ar.medi.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-25 11:39:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2758104E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

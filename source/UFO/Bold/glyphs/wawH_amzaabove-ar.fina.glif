@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wawHamzaabove-ar.fina" format="2">
+  <advance width="1019"/>
+  <anchor x="305" y="-475" name="bottom"/>
+  <anchor x="401" y="1526" name="top"/>
+  <outline>
+    <component base="wawHamzaabove-ar"/>
+    <contour>
+      <point x="887" y="307" type="line"/>
+      <point x="887" y="0" type="line"/>
+      <point x="1076" y="0" type="line"/>
+      <point x="1076" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-28 08:19:54 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>-7vv9</string>
+    </dict>
+  </lib>
+</glyph>

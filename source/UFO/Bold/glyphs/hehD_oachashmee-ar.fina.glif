@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehDoachashmee-ar.fina" format="2">
+  <advance width="1381"/>
+  <outline>
+    <component base="heh-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-30 06:41:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

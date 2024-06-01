@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad-ar.medi" format="2">
+  <advance width="1539"/>
+  <anchor x="646" y="-185" name="bottom"/>
+  <anchor x="658" y="1142" name="top"/>
+  <outline>
+    <contour>
+      <point x="1094" y="52" type="line"/>
+      <point x="1094" y="0" type="line"/>
+      <point x="1578" y="0" type="line"/>
+      <point x="1578" y="52" type="line"/>
+    </contour>
+    <component base="sad-ar.init"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-25 11:24:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

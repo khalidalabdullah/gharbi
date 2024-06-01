@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcheh-ar.fina" format="2">
+  <advance width="1208"/>
+  <outline>
+    <component base="tcheh-ar"/>
+    <contour>
+      <point x="1022" y="52" type="line"/>
+      <point x="1022" y="0" type="line"/>
+      <point x="1259" y="0" type="line"/>
+      <point x="1259" y="52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-22 18:55:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

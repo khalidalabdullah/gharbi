@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf-ar.init" format="2">
+  <advance width="1022"/>
+  <anchor x="382" y="-157" name="bottom"/>
+  <anchor x="457" y="1556" name="top"/>
+  <outline>
+    <component base="meem-ar.init" identifier="02B3A311"/>
+    <component base="_twodots" xOffset="571" yOffset="1211"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-26 18:36:09 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>02B3A311</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

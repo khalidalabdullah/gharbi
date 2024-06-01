@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeh-ar" format="2">
+  <advance width="479"/>
+  <unicode hex="0698"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="threedotsupabove-ar" xOffset="277" yOffset="1015" identifier="BD2B3F23"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-23 12:12:12 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BD2B3F23</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

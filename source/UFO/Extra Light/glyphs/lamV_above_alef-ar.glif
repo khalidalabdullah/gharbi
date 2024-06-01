@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamVabove_alef-ar" format="2">
+  <advance width="975"/>
+  <outline>
+    <component base="lam_alef-ar"/>
+    <component base="kurdv" xOffset="866" yOffset="1561" identifier="09F08E0E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-30 08:52:03 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>alef-ar.fina</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>09F08E0E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeh-ar.fina" format="2">
+  <advance width="490"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="368" yOffset="1015" identifier="A095FA98"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-23 12:12:23 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A095FA98</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gaf-ar" format="2">
+  <advance width="1654"/>
+  <unicode hex="06AF"/>
+  <guideline x="1551" y="987" angle="90"/>
+  <outline>
+    <contour>
+      <point x="810" y="1167" type="line"/>
+      <point x="810" y="1098" type="line"/>
+      <point x="1522" y="1597" type="line"/>
+      <point x="1518" y="1613"/>
+      <point x="1506" y="1634"/>
+      <point x="1495" y="1643" type="curve"/>
+    </contour>
+    <component base="keheh-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-27 12:06:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

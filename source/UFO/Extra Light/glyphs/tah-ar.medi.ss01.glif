@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tah-ar.medi.ss01" format="2">
+  <advance width="1490"/>
+  <anchor x="590" y="-129" name="bottom"/>
+  <anchor x="875" y="1372" name="top"/>
+  <outline>
+    <contour>
+      <point x="-70" y="52" type="line"/>
+      <point x="-70" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="52" type="line"/>
+    </contour>
+    <component base="tah-ar.fina.ss01" xOffset="-163"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-25 11:37:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

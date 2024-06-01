@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tah-ar.ss01" format="2">
+  <advance width="1645"/>
+  <anchor x="525" y="-129" name="bottom"/>
+  <anchor x="1038" y="1155" name="top"/>
+  <outline>
+    <component base="_sadhead" xOffset="451" identifier="A7202206"/>
+    <contour>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="1518" type="line" smooth="yes"/>
+      <point x="490" y="1521"/>
+      <point x="487" y="1523"/>
+      <point x="484" y="1523" type="curve" smooth="yes"/>
+      <point x="468" y="1523"/>
+      <point x="454" y="1519"/>
+      <point x="442" y="1513" type="curve" smooth="yes"/>
+      <point x="439" y="1512"/>
+      <point x="438" y="1510"/>
+      <point x="438" y="1507" type="curve" smooth="yes"/>
+      <point x="438" y="52" type="line"/>
+      <point x="97" y="52" type="line"/>
+      <point x="97" y="34" type="line" smooth="yes"/>
+      <point x="97" y="16"/>
+      <point x="111" y="0"/>
+      <point x="140" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-25 11:36:19 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A7202206</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

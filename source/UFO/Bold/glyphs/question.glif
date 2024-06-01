@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="1155"/>
+  <unicode hex="003F"/>
+  <outline>
+    <component base="question-ar" xScale="-1" xOffset="1155"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-17 19:26:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

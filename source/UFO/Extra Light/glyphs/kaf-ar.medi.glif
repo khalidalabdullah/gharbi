@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf-ar.medi" format="2">
+  <advance width="915"/>
+  <anchor x="387" y="-148" name="bottom"/>
+  <anchor x="385" y="1493" name="top"/>
+  <outline>
+    <component base="kaf-ar.init"/>
+    <contour>
+      <point x="788" y="52" type="line"/>
+      <point x="788" y="0" type="line"/>
+      <point x="956" y="0" type="line"/>
+      <point x="956" y="52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-27 08:17:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

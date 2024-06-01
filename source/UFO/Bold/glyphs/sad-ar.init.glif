@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad-ar.init" format="2">
+  <advance width="1546"/>
+  <anchor x="679" y="-180" name="bottom"/>
+  <anchor x="688" y="1252" name="top"/>
+  <outline>
+    <component base="_sadkufihead" xOffset="363" identifier="396BF2FE"/>
+    <contour>
+      <point x="414" y="0" type="line"/>
+      <point x="414" y="986" type="line" smooth="yes"/>
+      <point x="414" y="1000"/>
+      <point x="403" y="1004"/>
+      <point x="389" y="1002" type="curve" smooth="yes"/>
+      <point x="301" y="988"/>
+      <point x="211" y="951"/>
+      <point x="123" y="887" type="curve" smooth="yes"/>
+      <point x="113" y="881"/>
+      <point x="106" y="875"/>
+      <point x="106" y="865" type="curve" smooth="yes"/>
+      <point x="106" y="307" type="line"/>
+      <point x="-41" y="307" type="line"/>
+      <point x="-41" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-25 11:23:03 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>396BF2FE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

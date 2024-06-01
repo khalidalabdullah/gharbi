@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe-ar.fina" format="2">
+  <advance width="1026"/>
+  <outline>
+    <component base="oe-ar"/>
+    <contour>
+      <point x="860" y="307" type="line"/>
+      <point x="860" y="0" type="line"/>
+      <point x="1089" y="0" type="line"/>
+      <point x="1089" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-28 08:21:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>
