@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "gharbi";
+    src: url('GharbiVF.woff2') format('woff2');
+}
+
+.bgr-royal {
+    background-color: #470d75;
+}
+
+.clr-yellow {
+    color: yellow;
+}
+
+.clr-white {
+    color: white;
+}
+
+.maintitle {
+    font-family: "gharbi";
+    font-size: 15vw;
+    font-variation-settings: "wght" 900;
+    margin: 2vw;
+}
+
+.card{
+    display: grid;
+}
+
+.cardtitle {
+    font-family: "gharbi";
+    font-size: 37px;
+    font-variation-settings: "wght" 600;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.cardbody {
+    font-size: 21px;
+    padding: 10px;
+    text-align: justify;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
