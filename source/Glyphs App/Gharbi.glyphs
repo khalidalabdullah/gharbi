@@ -383,83 +383,6 @@ tag = ss03;
 fontMaster = (
 {
 axesValues = (
-200
-);
-customParameters = (
-{
-name = typoAscender;
-value = 2048;
-},
-{
-name = typoDescender;
-value = -655;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 2200;
-},
-{
-name = winDescent;
-value = -700;
-},
-{
-name = hheaAscender;
-value = 2048;
-},
-{
-name = hheaDescender;
-value = -655;
-},
-{
-name = hheaLineGap;
-value = 0;
-}
-);
-guides = (
-{
-pos = (-1337,-317);
-},
-{
-pos = (-1284,1206);
-}
-);
-iconName = Light;
-id = m01;
-metricValues = (
-{
-over = 33;
-pos = 2048;
-},
-{
-over = -33;
-},
-{
-over = -33;
-pos = -655;
-},
-{
-over = 33;
-pos = 1526;
-},
-{
-over = 33;
-pos = 52;
-}
-);
-name = "Extra Light";
-userData = {
-GSCornerRadius = 15;
-GSOffsetHorizontal = -27;
-GSOffsetProportional = 1;
-GSOffsetVertical = 10;
-};
-},
-{
-axesValues = (
 700
 );
 customParameters = (
@@ -531,6 +454,83 @@ name = Bold;
 userData = {
 GSCornerRadius = 42;
 GSOffsetHorizontal = 10;
+GSOffsetProportional = 1;
+GSOffsetVertical = 10;
+};
+},
+{
+axesValues = (
+200
+);
+customParameters = (
+{
+name = typoAscender;
+value = 2048;
+},
+{
+name = typoDescender;
+value = -655;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2200;
+},
+{
+name = winDescent;
+value = -700;
+},
+{
+name = hheaAscender;
+value = 2048;
+},
+{
+name = hheaDescender;
+value = -655;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
+guides = (
+{
+pos = (-1337,-317);
+},
+{
+pos = (-1284,1206);
+}
+);
+iconName = Light;
+id = m01;
+metricValues = (
+{
+over = 33;
+pos = 2048;
+},
+{
+over = -33;
+},
+{
+over = -33;
+pos = -655;
+},
+{
+over = 33;
+pos = 1526;
+},
+{
+over = 33;
+pos = 52;
+}
+);
+name = "Extra Light";
+userData = {
+GSCornerRadius = 15;
+GSOffsetHorizontal = -27;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
@@ -61673,7 +61673,7 @@ weightClass = 200;
 }
 );
 kerningLTR = {
-m01 = {
+m002 = {
 "eight-ar" = {
 "five-ar" = -110;
 "nine-ar" = -220;
@@ -61702,7 +61702,7 @@ m01 = {
 "five-ar" = -170;
 };
 };
-m002 = {
+m01 = {
 "eight-ar" = {
 "five-ar" = -110;
 "nine-ar" = -220;
@@ -61733,11 +61733,11 @@ m002 = {
 };
 };
 kerningRTL = {
-m01 = {
+m002 = {
 "@MMK_R_beh-left" = {
 "ain-ar.fina" = -80;
 "ain-ar.medi" = -80;
-"alef-ar.fina" = 60;
+"alef-ar.fina" = -60;
 "alefHamzaabove-ar.fina" = -60;
 "alefHamzabelow-ar.fina" = -60;
 "alefMadda-ar.fina" = -60;
@@ -61808,11 +61808,11 @@ m01 = {
 "tehMarbuta-ar" = -85;
 };
 };
-m002 = {
+m01 = {
 "@MMK_R_beh-left" = {
 "ain-ar.fina" = -80;
 "ain-ar.medi" = -80;
-"alef-ar.fina" = -60;
+"alef-ar.fina" = 60;
 "alefHamzaabove-ar.fina" = -60;
 "alefHamzabelow-ar.fina" = -60;
 "alefMadda-ar.fina" = -60;
