@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_twodots" format="2">
+  <advance width="0"/>
+  <outline>
+    <component base="_dot" xOffset="168" yOffset="307" identifier="DD0DF8AC"/>
+    <component base="_dot" xOffset="-145" yOffset="307" identifier="619ECD87"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-26 18:35:02 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>619ECD87</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DD0DF8AC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

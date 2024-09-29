@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotsverticalabove-ar" format="2">
+  <advance width="0"/>
+  <outline>
+    <component base="_dot" yOffset="402" identifier="51FEFBD8"/>
+    <component base="_dot" yOffset="506" identifier="2E8E3A05"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-29 10:38:38 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2E8E3A05</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>51FEFBD8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

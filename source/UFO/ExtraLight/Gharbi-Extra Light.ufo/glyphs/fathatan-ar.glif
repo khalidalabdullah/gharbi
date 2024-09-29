@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fathatan-ar" format="2">
+  <advance width="0"/>
+  <unicode hex="064B"/>
+  <anchor x="0" y="0" name="_top"/>
+  <outline>
+    <component base="fatha-ar" yOffset="-28"/>
+    <component base="fatha-ar" xOffset="4" yOffset="119" identifier="8C5B69C0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-29 06:59:22 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8C5B69C0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

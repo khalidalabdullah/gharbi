@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefMadda-ar" format="2">
+  <advance width="229"/>
+  <unicode hex="0622"/>
+  <anchor x="106" y="-141" name="bottom"/>
+  <anchor x="100" y="1890" name="top"/>
+  <outline>
+    <component base="alef-ar"/>
+    <component base="_meddeh" xOffset="120" yOffset="1676" identifier="AC42857D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-29 07:33:18 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AC42857D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

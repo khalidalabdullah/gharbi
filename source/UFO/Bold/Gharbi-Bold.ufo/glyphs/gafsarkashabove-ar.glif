@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gafsarkashabove-ar" format="2">
+  <advance width="0"/>
+  <outline>
+    <component base="kaf-ar.init" xScale="0.4056" yScale="0.4056" xOffset="-43" yOffset="35" identifier="E37EB61D"/>
+    <component base="_kafbowl" xScale="0.4056" yScale="0.4056" xOffset="-310" yOffset="35" identifier="FA0B041D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-29 10:54:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E37EB61D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FA0B041D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

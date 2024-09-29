@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehVabove-ar.medi" format="2">
+  <advance width="823"/>
+  <outline>
+    <component base="yeh-ar.medi"/>
+    <component base="kurdv" xOffset="370" yOffset="1038" identifier="EE9CDCD2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-29 12:00:47 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>EE9CDCD2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

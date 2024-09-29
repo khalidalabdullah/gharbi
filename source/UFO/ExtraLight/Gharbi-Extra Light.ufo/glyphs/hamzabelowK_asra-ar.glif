@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzabelowKasra-ar" format="2">
+  <advance width="0"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <outline>
+    <component base="hamzabelow-ar"/>
+    <component base="kasra-ar" yOffset="-562" identifier="9609EB7F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-29 07:04:08 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9609EB7F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

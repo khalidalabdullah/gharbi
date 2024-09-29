@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzaaboveDammatan-ar" format="2">
+  <advance width="0"/>
+  <anchor x="0" y="0" name="_top"/>
+  <outline>
+    <component base="hamzaabove-ar"/>
+    <component base="dammatan-ar" xOffset="17" yOffset="500" identifier="1EFCABAA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-29 06:56:06 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1EFCABAA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

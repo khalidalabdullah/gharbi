@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddal-ar" format="2">
+  <advance width="1143"/>
+  <unicode hex="0688"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="_tahsmall" xOffset="475" yOffset="1105" identifier="114DA7BE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-29 19:34:03 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>114DA7BE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefHamzaabove-ar.fina" format="2">
+  <advance width="471"/>
+  <anchor x="224" y="-120" name="bottom"/>
+  <anchor x="167" y="1846" name="top"/>
+  <outline>
+    <contour>
+      <point x="82" y="31" type="line" smooth="yes"/>
+      <point x="82" y="12"/>
+      <point x="94" y="0"/>
+      <point x="113" y="0" type="curve" smooth="yes"/>
+      <point x="537" y="0" type="line"/>
+      <point x="537" y="307" type="line"/>
+      <point x="420" y="307" type="line" smooth="yes"/>
+      <point x="401" y="307"/>
+      <point x="389" y="319"/>
+      <point x="389" y="338" type="curve" smooth="yes"/>
+      <point x="389" y="1266" type="line" smooth="yes"/>
+      <point x="389" y="1282"/>
+      <point x="377" y="1288"/>
+      <point x="362" y="1284" type="curve" smooth="yes"/>
+      <point x="270" y="1255"/>
+      <point x="182" y="1219"/>
+      <point x="98" y="1174" type="curve" smooth="yes"/>
+      <point x="86" y="1167"/>
+      <point x="82" y="1159"/>
+      <point x="82" y="1147" type="curve" smooth="yes"/>
+    </contour>
+    <component base="_smallhamza" xOffset="165" yOffset="1552" identifier="336454C6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-22 08:26:53 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>336454C6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

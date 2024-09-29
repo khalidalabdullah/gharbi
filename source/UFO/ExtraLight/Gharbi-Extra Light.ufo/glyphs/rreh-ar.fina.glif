@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rreh-ar.fina" format="2">
+  <advance width="490"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="_tahsmall" xOffset="280" yOffset="1126" identifier="87B2E8B4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-29 19:35:58 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>87B2E8B4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

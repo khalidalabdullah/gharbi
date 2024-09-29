@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gafsarkashcenter-ar" format="2">
+  <advance width="0"/>
+  <outline>
+    <component base="kaf-ar.init" xScale="0.403" yScale="0.403" xOffset="-43" yOffset="45" identifier="C5CDF28E"/>
+    <component base="_kafbowl" xScale="0.403" yScale="0.403" xOffset="-310" yOffset="45" identifier="97466672"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-29 10:54:35 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>97466672</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C5CDF28E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

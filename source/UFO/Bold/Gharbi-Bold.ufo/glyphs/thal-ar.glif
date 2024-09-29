@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thal-ar" format="2">
+  <advance width="1165"/>
+  <unicode hex="0630"/>
+  <anchor x="378" y="-121" name="bottom"/>
+  <anchor x="377" y="1638" name="top"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="_dot" xOffset="487" yOffset="1674" identifier="9E7A4067"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-21 19:20:11 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9E7A4067</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

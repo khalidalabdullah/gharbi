@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghain-ar.init" format="2">
+  <advance width="1229"/>
+  <anchor x="485" y="-198" name="bottom"/>
+  <anchor x="428" y="1557" name="top"/>
+  <outline>
+    <component base="ain-ar.init"/>
+    <component base="_dot" xOffset="569" yOffset="1634" identifier="F95B26EE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-25 16:31:03 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>F95B26EE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

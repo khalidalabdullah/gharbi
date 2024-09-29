@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehDotless-ar.init" format="2">
+  <advance width="1038"/>
+  <outline>
+    <component base="_roundhead" xOffset="82" identifier="166D950A"/>
+    <contour>
+      <point x="-41" y="52" type="line"/>
+      <point x="-41" y="0" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="514" y="52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-26 17:17:56 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>166D950A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

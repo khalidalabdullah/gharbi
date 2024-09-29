@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotshorizontalbelow-ar.ss03" format="2">
+  <advance width="0"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="-2" y="-473" name="bottom"/>
+  <outline>
+    <component base="_dot" yOffset="79" identifier="842139AC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-18 12:38:17 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>842139AC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>2048</integer>
+    <key>capHeight</key>
+    <real>9223372036854775808.000</real>
+    <key>copyright</key>
+    <string>Copyright 2024, Khalid Alabdullah</string>
+    <key>descender</key>
+    <integer>-655</integer>
+    <key>familyName</key>
+    <string>Gharbi</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>-1337</integer>
+        <key>y</key>
+        <integer>-317</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>-1284</integer>
+        <key>y</key>
+        <integer>1206</integer>
+      </dict>
+    </array>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>note</key>
+    <string>Copy scale = 89.3%
+
+Kerning
+ta
+tha
+reh
+yeh
+</string>
+    <key>openTypeHeadCreated</key>
+    <string>2024/03/05 07:21:34</string>
+    <key>openTypeHheaAscender</key>
+    <integer>2048</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-655</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Khalid Alabdullah</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://khalidalabdullah.myportfolio.com/</string>
+    <key>openTypeNameLicense</key>
+    <string>SIL Open Font License, Version 1.1</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Khalid Alabdullah</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Extra Light</string>
+    <key>openTypeNameRecords</key>
+    <array>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>3073</integer>
+        <key>nameID</key>
+        <integer>19</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>الخط المناسب في المكان المناسب</string>
+      </dict>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>2048</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-655</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+      <integer>3</integer>
+      <integer>5</integer>
+      <integer>13</integer>
+      <integer>31</integer>
+      <integer>33</integer>
+      <integer>35</integer>
+      <integer>45</integer>
+      <integer>60</integer>
+      <integer>63</integer>
+      <integer>67</integer>
+    </array>
+    <key>openTypeOS2WeightClass</key>
+    <integer>200</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>2200</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>-700</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-33</integer>
+      <integer>0</integer>
+      <integer>2048</integer>
+      <integer>2081</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>Gharbi-ExtraLight</string>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-688</integer>
+      <integer>-655</integer>
+    </array>
+    <key>styleMapFamilyName</key>
+    <string>Gharbi Extra Light</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Extra Light</string>
+    <key>unitsPerEm</key>
+    <integer>2048</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <real>9223372036854775808.000</real>
+  </dict>
+</plist>

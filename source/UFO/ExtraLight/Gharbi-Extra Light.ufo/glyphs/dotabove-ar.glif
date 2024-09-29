@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotabove-ar" format="2">
+  <advance width="0"/>
+  <outline>
+    <component base="_dot" yOffset="402" identifier="A4EFFDC4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-29 10:37:00 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A4EFFDC4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

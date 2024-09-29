@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotcenter-ar" format="2">
+  <advance width="0"/>
+  <outline>
+    <component base="_dot" yOffset="402" identifier="1EFB5D63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-29 10:38:05 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1EFB5D63</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

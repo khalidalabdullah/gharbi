@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="veh-ar.fina" format="2">
+  <advance width="1735"/>
+  <outline>
+    <component base="fehDotless-ar.fina"/>
+    <component base="_twodots" xOffset="1255" yOffset="1190" identifier="AD8E6371"/>
+    <component base="_dot" xOffset="1272" yOffset="1847" identifier="D7B2C1B0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-26 18:36:55 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AD8E6371</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D7B2C1B0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

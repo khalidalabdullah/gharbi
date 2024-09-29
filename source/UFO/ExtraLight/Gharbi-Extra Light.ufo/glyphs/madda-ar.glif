@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="madda-ar" format="2">
+  <advance width="0"/>
+  <unicode hex="0653"/>
+  <anchor x="0" y="0" name="_top"/>
+  <outline>
+    <component base="_meddeh" yOffset="127" identifier="423678B8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-21 19:20:11 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>423678B8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

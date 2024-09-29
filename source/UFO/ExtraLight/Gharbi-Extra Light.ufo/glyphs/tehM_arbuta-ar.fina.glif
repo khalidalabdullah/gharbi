@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehMarbuta-ar.fina" format="2">
+  <advance width="1038"/>
+  <anchor x="337" y="-152" name="bottom"/>
+  <anchor x="488" y="1526" name="top"/>
+  <outline>
+    <contour>
+      <point x="516" y="52" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="1079" y="0" type="line"/>
+      <point x="1079" y="52" type="line"/>
+    </contour>
+    <component base="_roundhead" xOffset="82" identifier="EF92A385"/>
+    <component base="_twodots" xOffset="547" yOffset="1214" identifier="B2BD559B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-27 19:18:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B2BD559B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EF92A385</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

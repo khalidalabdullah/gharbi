@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon-ar" format="2">
+  <advance width="1329"/>
+  <unicode hex="0646"/>
+  <anchor x="373" y="-317" name="bottom"/>
+  <anchor x="645" y="1564" name="top"/>
+  <outline>
+    <component base="_noonbowl" xOffset="82" identifier="CBA242ED"/>
+    <component base="_dot" xOffset="684" yOffset="1522"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-21 19:20:11 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CBA242ED</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

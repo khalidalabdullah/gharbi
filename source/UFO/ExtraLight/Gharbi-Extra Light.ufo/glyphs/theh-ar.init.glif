@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theh-ar.init" format="2">
+  <advance width="774"/>
+  <anchor x="341" y="-107" name="bottom"/>
+  <anchor x="396" y="1829" name="top"/>
+  <outline>
+    <component base="teh-ar.init"/>
+    <component base="_dot" xOffset="432" yOffset="1681" identifier="68C67B8F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-22 13:38:56 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>68C67B8F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

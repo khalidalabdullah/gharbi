@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonghunnaabove-ar" format="2">
+  <advance width="0"/>
+  <unicode hex="0658"/>
+  <outline>
+    <component base="noonghunna-ar" xScale="0.3328" yScale="0.3328" xOffset="-238" yOffset="94" identifier="A080401E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-29 10:33:46 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A080401E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

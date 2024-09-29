@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad-ar.init" format="2">
+  <advance width="1493"/>
+  <anchor x="633" y="-159" name="bottom"/>
+  <anchor x="474" y="1526" name="top"/>
+  <outline>
+    <component base="sad-ar.init"/>
+    <component base="_dot" xOffset="647" yOffset="1522" identifier="0A167CD5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-21 19:20:11 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0A167CD5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

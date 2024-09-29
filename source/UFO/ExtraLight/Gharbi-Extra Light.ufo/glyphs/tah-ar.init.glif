@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tah-ar.init" format="2">
+  <advance width="1482"/>
+  <anchor x="535" y="-142" name="bottom"/>
+  <anchor x="939" y="1392" name="top"/>
+  <outline>
+    <component base="tah-ar" xOffset="-163" identifier="3473A264"/>
+    <contour>
+      <point x="-64" y="52" type="line"/>
+      <point x="-64" y="0" type="line"/>
+      <point x="199" y="0" type="line"/>
+      <point x="199" y="52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-25 11:38:01 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3473A264</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

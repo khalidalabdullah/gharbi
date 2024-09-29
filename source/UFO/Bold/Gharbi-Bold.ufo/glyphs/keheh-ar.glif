@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="keheh-ar" format="2">
+  <advance width="1654"/>
+  <unicode hex="06A9"/>
+  <anchor x="-323" y="-156" name="bottom"/>
+  <anchor x="-303" y="1341" name="top"/>
+  <outline>
+    <component base="kaf-ar.init" xOffset="739" identifier="BC75DDFF"/>
+    <component base="_kafbowl" xOffset="80" identifier="C53025EB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-27 12:04:12 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BC75DDFF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C53025EB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

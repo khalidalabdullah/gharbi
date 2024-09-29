@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="feh-ar.fina" format="2">
+  <advance width="1735"/>
+  <anchor x="500" y="-148" name="bottom"/>
+  <anchor x="508" y="1206" name="top"/>
+  <outline>
+    <component base="fehDotless-ar.fina"/>
+    <component base="_dot" xOffset="1278" yOffset="1611" identifier="C4D1D98B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-21 19:20:11 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C4D1D98B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

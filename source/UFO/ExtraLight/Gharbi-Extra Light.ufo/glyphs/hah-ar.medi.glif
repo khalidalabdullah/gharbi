@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hah-ar.medi" format="2">
+  <advance width="995"/>
+  <anchor x="372" y="-317" name="bottom"/>
+  <anchor x="436" y="1354" name="top"/>
+  <outline>
+    <contour>
+      <point x="901" y="52" type="line"/>
+      <point x="901" y="0" type="line"/>
+      <point x="1036" y="0" type="line"/>
+      <point x="1036" y="52" type="line"/>
+    </contour>
+    <component base="hah-ar.init" identifier="ADEB414C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-17 16:00:51 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>ADEB414C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

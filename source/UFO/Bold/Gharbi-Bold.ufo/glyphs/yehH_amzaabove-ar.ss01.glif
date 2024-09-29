@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehHamzaabove-ar.ss01" format="2">
+  <advance width="1378"/>
+  <anchor x="327" y="-272" name="bottom"/>
+  <anchor x="388" y="1526" name="top"/>
+  <outline>
+    <component base="_smallhamza" xOffset="269" yOffset="1167" identifier="541B9EA5"/>
+    <component base="alefMaksura-ar.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-29 12:01:18 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>541B9EA5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
